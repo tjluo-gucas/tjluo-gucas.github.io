@@ -1,7 +1,3 @@
----
-title: This is my title
-layout: post
----
 ## Welcome to Lucas's World
 
 You can use the [editor on GitHub](https://github.com/tjluo-gucas/tjluo-gucas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
